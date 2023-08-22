@@ -8,7 +8,7 @@ Pytorch Implementation of MaskRCNN:
 The dataset structure is changed to the following:
 
     ├── ATLDSD_dataset      
-    │   ├── images          # Images of all class
+    │   ├── images          # Images of all classes
     │   ├── masks           # Masks of all images
 
 DETECTRON2 Implementaion of MaskRCNN:
