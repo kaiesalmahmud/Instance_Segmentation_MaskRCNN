@@ -13,7 +13,7 @@ Incomplete attempt of replacing CNN backbone of MaskRCNN (Detectron2 Implementat
 
 ## Dataset used:
 
-Pytorch Implementation of MaskRCNN:
+#### Pytorch Implementation of MaskRCNN
 [Apple Tree Leaf Disease Segmentation Dataset (ATLDSD)](https://www.scidb.cn/en/detail?dataSetId=0e1f57004db842f99668d82183afd578&dataSetType=personal)
 
 The dataset structure is changed to the following:
@@ -22,7 +22,7 @@ The dataset structure is changed to the following:
     │   ├── images          # Images of all classes
     │   ├── masks           # Masks of all images
 
-DETECTRON2 Implementaion of MaskRCNN:
+#### DETECTRON2 Implementaion of MaskRCNN
 [leaf_segment Image Dataset](https://universe.roboflow.com/fpt-vl85s/leaf_segment/dataset/2)
 
 
