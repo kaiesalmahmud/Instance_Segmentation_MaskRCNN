@@ -7,10 +7,11 @@ Pytorch Implementation of MaskRCNN:
 
 The dataset structure is changed to the following:
 
-
-## ATLDSD_dataset
-### images
-### masks
+```python
+|-ATLDSD_dataset
+|--images
+|--masks
+```
 
 DETECTRON2 Implementaion of MaskRCNN:
 [leaf_segment Image Dataset](https://universe.roboflow.com/fpt-vl85s/leaf_segment/dataset/2)
